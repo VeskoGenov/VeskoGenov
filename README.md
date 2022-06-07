@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Veselin</h1>
+<h1 align="center">Hello foreigner👋, I'm Veselin</h1>
 <h3 align="center">An energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veskogenov&label=Profile%20views&color=0e75b6&style=flat" alt="veskogenov" /> </p>
