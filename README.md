@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veskogenov&label=Profile%20views&color=0e75b6&style=flat" alt="veskogenov" /> </p>
 
-- 🌱 I’m recently started learning **Python**
+- 🌱 I recently started learning **Python**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/veselin-genov-lukanov-346217170/](https://www.linkedin.com/in/veselin-genov-lukanov-346217170/)
 
